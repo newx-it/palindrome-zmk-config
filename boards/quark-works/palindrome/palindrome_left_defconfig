@@ -1,6 +1,8 @@
 # Copyright (c) 2026 Brandon Beltran
 # SPDX-License-Identifier: MIT
 
+CONFIG_ZMK_BOARD_COMPAT=y
+
 # Enable MPU
 CONFIG_ARM_MPU=y
 
