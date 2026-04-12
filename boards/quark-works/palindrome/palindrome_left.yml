@@ -1,0 +1,7 @@
+board:
+  name: palindrome_left
+  vendor: quark-works
+  socs:
+  - name: nrf52840
+    variants:
+    - name: qiaa
