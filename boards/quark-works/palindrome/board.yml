@@ -3,7 +3,11 @@ boards:
    vendor: quark-works
    socs:
    - name: nrf52840
+     variants:
+     - name: zmk
  - name: palindrome_right
    vendor: quark-works
    socs:
    - name: nrf52840
+     variants:
+     - name: zmk
