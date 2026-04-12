@@ -1,9 +1,9 @@
 boards:
-  - name: palindrome_left
-    vendor: quark-works
-    socs:
-    - name: nrf52840
-  - name: palindrome_right
-    vendor: quark-works
-    socs:
-    - name: nrf52840
+ - name: palindrome_left
+   vendor: quark-works
+   socs:
+   - name: nrf52840
+ - name: palindrome_right
+   vendor: quark-works
+   socs:
+   - name: nrf52840
