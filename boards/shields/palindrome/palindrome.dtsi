@@ -23,7 +23,7 @@
         zmk,physical-layout = &physical_layout0;
     };
 
-    swag_transform: swag_transform {
+    cool_transform: cool_transform {
         compatible = "zmk,matrix-transform";
         columns = <30>;
         rows = <1>;
