@@ -2,9 +2,9 @@
 #include "palindrome-layout.dtsi"
 
 / {
-    physical_layout0: physical_layout_0 {
+    physical_layout1: physical_layout_1 {
         compatible = "zmk,physical-layout";
-        display-name = "Default Layout";
+        display-name = "Default Layout 1";
         transform = <&default_transform>;
     };
 };
@@ -12,7 +12,7 @@
 / {
     chosen {
         zmk,kscan = &mock_kscan;
-        zmk,physical-layout = &physical_layout0;
+        zmk,physical-layout = &physical_layout1;
     };
 
     mock_kscan: mock_kscan_0 {
