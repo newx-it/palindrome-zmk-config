@@ -5,7 +5,6 @@
  */
 
 #include <physical_layouts.dtsi>
-#include "palindrome.dtsi"
 
 / {
     physical_layout0: physical_layout_0 {
