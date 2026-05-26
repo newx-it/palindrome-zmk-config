@@ -6,7 +6,7 @@
 
 #include "palindrome.dtsi"
 
-&default_transform {
+&swag_transform {
 	col-offset = <15>;
 };
 
